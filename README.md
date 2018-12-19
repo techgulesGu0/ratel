@@ -121,6 +121,6 @@ release ratel container apk ,into :/Users/virjar/git/ratel/ratel_work_dir/ratel-
 如果你觉得作者辛苦了，可以的话请我喝杯咖啡
 ![alipay](img/reward.jpg)
 
-####看雪也有原作者的文章
+#### 看雪原作者文章
 [ratel，让Xposed模块在免root的环境下跑起来](https://mp.weixin.qq.com/s/Ei0U-Os8SVeqmSLlzDij_A)
 
